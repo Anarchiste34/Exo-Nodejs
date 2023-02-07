@@ -1,0 +1,29 @@
+{
+    "Entree": [
+      { "id": 1, "name": "Croquettes de poisson chat", "prix": "12€" },
+      { "id": 2, "name": "Filets de pimp", "prix": "8€" },
+      { "id": 3, "name": "Soufflé braisé", "prix": "3€" }
+      
+    ],
+
+    "Plats": [
+        { "id": 4, "name": "Poulet dans sa camisole de force", "prix": "25€" },
+        { "id": 5, "name": "Agneau déconfiné", "prix": "30€"},
+        { "id": 6, "name": "Boeuf d'or et platine", "prix": "33€"},
+        { "id": 7, "name": "Galette de petit pois sur sont lit d'or", "prix": "22€"}
+
+    ],
+
+    "Dessert": [
+        { "id": 8, "name": "Boule au choix", "prix": "11€"},
+        { "id": 9, "name": "Tartelette au citron d'or et platine", "prix": "50€"}
+
+    ],
+
+    "Boisson": [
+        { "id": 10, "name": "Porto haram", "prix": "666€"},
+        { "id": 11, "name": "Bouteille de la glacière", "prix": "100€"}
+    
+    ]
+
+}
